@@ -40,5 +40,5 @@ To check if you have Python, open the terminal on your Operating System and type
 
 ## ✍️ Authors
 **university**
-- Github: https://github.com/voiduniversity
+- Github: https://github.com/6niversity
 - StackOverflow: https://stackoverflow.com/users/32137262/university
